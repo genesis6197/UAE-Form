@@ -1,0 +1,62 @@
+{
+  "ko": {
+    "subject": "Assiduus Global에 문의해 주셔서 감사합니다",
+    "greeting": "{name} 님께",
+    "company": "귀사",
+    "paragraphs": [
+      "Assiduus는 세계적인 AI 기반 크로스보더 커머스 미들웨어 플랫폼 중 하나로, 브랜드가 글로벌 시장에서 원활하게 성장할 수 있도록 지원합니다. 20개 이상의 국가에서 운영되며, 마켓플레이스, 퀵커머스, D2C 및 오프라인 소매 전반에서 브랜드의 진출, 운영 및 최적화를 돕는 엔드투엔드 기술 및 유통 생태계를 제공합니다.",
+      "당사의 독자적인 플랫폼은 유통, 공급망, 마켓플레이스 운영, 재고 계획, 주문 이행 및 분석을 하나의 지능형 인프라로 통합하여, 브랜드가 여러 파트너와 시스템을 관리하는 복잡함 없이 해외로 확장할 수 있도록 합니다.",
+      "현재 Assiduus는 Unilever, Red Bull, Dabur, Himalaya, Cipla, Cymbiotica 등을 비롯한 글로벌 선도 브랜드들의 신뢰를 받고 있습니다. 세계 최대 규모의 소비재 브랜드 및 Fortune 500 기업들과 협력하며, 운영 효율성과 수익성을 높이는 동시에 해외 진출을 가속화하도록 돕고 있습니다.",
+      "새로운 시장에 진출하든 기존 시장에서 규모를 확대하든, Assiduus는 브랜드 팀의 일원처럼 시장 진입과 규제 준수부터 옴니채널 유통, 공급망, 주문 이행 및 AI 기반 성장 최적화까지 전 과정을 관리합니다.",
+      "Assiduus는 글로벌 커머스를 단순하고 확장 가능하며 지능적으로 만듭니다."
+    ]
+  },
+  "zh": {
+    "subject": "感谢您联系 Assiduus Global",
+    "greeting": "尊敬的{name}",
+    "company": "贵公司",
+    "paragraphs": [
+      "Assiduus 是全球领先的 AI 驱动跨境电商中间件平台之一，助力品牌在全球市场顺畅拓展。我们在 20 多个国家开展业务，提供端到端的技术与分销生态系统，帮助品牌在电商平台、即时零售、D2C 和线下零售渠道中开展、管理和优化业务。",
+      "我们的自主平台将分销、供应链、电商平台运营、库存规划、订单履约和数据分析整合到统一的智能基础设施中，让品牌能够拓展国际市场，无需应对管理多个合作伙伴和系统的复杂性。",
+      "如今，Assiduus 深受 Unilever、Red Bull、Dabur、Himalaya、Cipla、Cymbiotica 等众多全球领先品牌的信赖。我们与一些全球最大的消费品牌及《财富》世界 500 强企业合作，帮助它们加快国际扩张，同时提升运营效率和盈利能力。",
+      "无论是进入新市场还是扩大现有市场业务，Assiduus 都如同品牌团队的延伸，全面管理从市场准入、合规到全渠道分销、供应链、订单履约以及 AI 驱动的增长优化等各项工作。",
+      "在 Assiduus，我们让全球商业变得简单、可扩展且智能。"
+    ]
+  },
+  "vi": {
+    "subject": "Cảm ơn bạn đã liên hệ với Assiduus Global",
+    "greeting": "Kính gửi {name}",
+    "company": "quý tổ chức",
+    "paragraphs": [
+      "Assiduus là một trong những nền tảng phần mềm trung gian thương mại xuyên biên giới ứng dụng AI hàng đầu thế giới, giúp các thương hiệu mở rộng thuận lợi trên thị trường toàn cầu. Hoạt động tại hơn 20 quốc gia, chúng tôi cung cấp hệ sinh thái công nghệ và phân phối toàn diện, giúp các thương hiệu triển khai, quản lý và tối ưu hóa sự hiện diện trên các sàn thương mại điện tử, thương mại nhanh, D2C và bán lẻ trực tiếp.",
+      "Nền tảng độc quyền của chúng tôi tích hợp phân phối, chuỗi cung ứng, vận hành sàn thương mại điện tử, lập kế hoạch tồn kho, hoàn tất đơn hàng và phân tích vào một hạ tầng thông minh thống nhất, giúp các thương hiệu mở rộng ra quốc tế mà không phải đối mặt với sự phức tạp khi quản lý nhiều đối tác và hệ thống.",
+      "Hiện nay, Assiduus được các thương hiệu hàng đầu toàn cầu tin tưởng, bao gồm Unilever, Red Bull, Dabur, Himalaya, Cipla, Cymbiotica và nhiều thương hiệu khác. Chúng tôi hợp tác với một số thương hiệu tiêu dùng lớn nhất thế giới và các công ty thuộc Fortune 500, giúp họ đẩy nhanh quá trình mở rộng quốc tế đồng thời nâng cao hiệu quả vận hành và khả năng sinh lời.",
+      "Dù gia nhập thị trường mới hay mở rộng tại thị trường hiện có, Assiduus trở thành một phần mở rộng của đội ngũ thương hiệu — quản lý mọi hoạt động từ gia nhập thị trường và tuân thủ quy định đến phân phối đa kênh, chuỗi cung ứng, hoàn tất đơn hàng và tối ưu hóa tăng trưởng bằng AI.",
+      "Tại Assiduus, chúng tôi giúp thương mại toàn cầu trở nên đơn giản, có khả năng mở rộng và thông minh."
+    ]
+  },
+  "th": {
+    "subject": "ขอบคุณที่ติดต่อ Assiduus Global",
+    "greeting": "เรียน คุณ{name}",
+    "company": "องค์กรของคุณ",
+    "paragraphs": [
+      "Assiduus เป็นหนึ่งในแพลตฟอร์มมิดเดิลแวร์ด้านการค้าข้ามพรมแดนที่ขับเคลื่อนด้วย AI ชั้นนำของโลก ช่วยให้แบรนด์ขยายธุรกิจในตลาดทั่วโลกได้อย่างราบรื่น เราดำเนินงานในกว่า 20 ประเทศ โดยนำเสนอระบบนิเวศด้านเทคโนโลยีและการจัดจำหน่ายแบบครบวงจร ซึ่งช่วยให้แบรนด์เริ่มต้น จัดการ และเพิ่มประสิทธิภาพการดำเนินงานบนมาร์เก็ตเพลส ควิกคอมเมิร์ซ D2C และร้านค้าปลีกออฟไลน์",
+      "แพลตฟอร์มที่เราพัฒนาขึ้นเองผสานการจัดจำหน่าย ห่วงโซ่อุปทาน การดำเนินงานบนมาร์เก็ตเพลส การวางแผนสินค้าคงคลัง การจัดการคำสั่งซื้อและจัดส่งสินค้า และการวิเคราะห์ข้อมูลไว้ในโครงสร้างพื้นฐานอัจฉริยะเดียว ช่วยให้แบรนด์ขยายธุรกิจสู่ต่างประเทศได้โดยไม่ต้องเผชิญกับความซับซ้อนในการจัดการพันธมิตรและระบบหลายราย",
+      "ปัจจุบัน Assiduus ได้รับความไว้วางใจจากแบรนด์ชั้นนำระดับโลก เช่น Unilever, Red Bull, Dabur, Himalaya, Cipla, Cymbiotica และอีกมากมาย เราทำงานร่วมกับแบรนด์สินค้าอุปโภคบริโภคที่ใหญ่ที่สุดบางรายของโลกและบริษัทในกลุ่ม Fortune 500 โดยช่วยเร่งการขยายธุรกิจระหว่างประเทศ พร้อมยกระดับประสิทธิภาพการดำเนินงานและความสามารถในการทำกำไร",
+      "ไม่ว่าจะเป็นการเข้าสู่ตลาดใหม่หรือการขยายธุรกิจในตลาดเดิม Assiduus จะเป็นเสมือนส่วนหนึ่งของทีมแบรนด์ โดยดูแลทุกขั้นตอนตั้งแต่การเข้าสู่ตลาดและการปฏิบัติตามกฎระเบียบ ไปจนถึงการจัดจำหน่ายแบบออมนิแชนเนล ห่วงโซ่อุปทาน การจัดการคำสั่งซื้อและจัดส่งสินค้า และการเพิ่มประสิทธิภาพการเติบโตด้วย AI",
+      "ที่ Assiduus เราทำให้การค้าระดับโลกเรียบง่าย ขยายขนาดได้ และชาญฉลาด"
+    ]
+  },
+  "uz": {
+    "subject": "Assiduus Global bilan bogʻlanganingiz uchun rahmat",
+    "greeting": "Hurmatli {name}",
+    "company": "tashkilotingiz",
+    "paragraphs": [
+      "Assiduus — dunyodagi yetakchi sunʼiy intellektga asoslangan transchegaraviy savdo vositachi dasturiy platformalaridan biri boʻlib, brendlarga jahon bozorlarida muammosiz kengayish imkonini beradi. Biz 20 dan ortiq mamlakatda faoliyat yuritib, brendlarga marketpleyslar, tezkor savdo, D2C va oflayn chakana savdo kanallarida faoliyatni boshlash, boshqarish va optimallashtirishga yordam beradigan yaxlit texnologiya va distribyutsiya ekotizimini taqdim etamiz.",
+      "Oʻzimiz ishlab chiqqan platforma distribyutsiya, taʼminot zanjiri, marketpleyslardagi operatsiyalar, zaxiralarni rejalashtirish, buyurtmalarni bajarish va tahlilni yagona aqlli infratuzilmaga birlashtiradi. Bu brendlarga koʻplab hamkorlar va tizimlarni boshqarish murakkabligisiz xalqaro miqyosda kengayish imkonini beradi.",
+      "Bugungi kunda Unilever, Red Bull, Dabur, Himalaya, Cipla, Cymbiotica va boshqa koʻplab yetakchi global brendlar Assiduusʼga ishonadi. Biz dunyodagi eng yirik isteʼmol brendlarining ayrimlari va Fortune 500 kompaniyalari bilan hamkorlik qilib, ularga operatsion samaradorlik va rentabellikni oshirgan holda xalqaro kengayishni jadallashtirishga yordam beramiz.",
+      "Yangi bozorga kirishda ham, mavjud bozorda faoliyatni kengaytirishda ham Assiduus brend jamoasining davomiga aylanadi — bozorga kirish va meʼyoriy talablarga rioya qilishdan tortib, omnikanal distribyutsiya, taʼminot zanjiri, buyurtmalarni bajarish va sunʼiy intellekt yordamida oʻsishni optimallashtirishgacha boʻlgan barcha jarayonlarni boshqaradi.",
+      "Assiduusʼda biz global savdoni sodda, kengayishga mos va aqlli qilamiz."
+    ]
+  }
+}
