@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+form_email.log
+submissions.csv
+.DS_Store
+
+# Local run script — contains credentials
+run_local.ps1
+
+# Local test harness output
+test_submissions.csv
+test_last_email.html
